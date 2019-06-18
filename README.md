@@ -1,2 +1,4 @@
 # Resized-Images
-Script para o redimensionamento de múltiplas imagens
+Script para a geração de versões reduzidas (thumbnails) de múltiplas imagens
+
+
